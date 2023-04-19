@@ -45,34 +45,9 @@ I am Milkias Bekana, currently working as a Software Engineer at the [Enat Bank 
 
 
 
-# Hi there, I'm [Your Name] 👋
-
-I'm a [profession/occupation], currently based in [location]. I'm passionate about [passions/interests] and enjoy [hobbies/activities]. 
-
-## Technologies
-
-Here are some of the technologies and tools I've worked with:
-
-- Programming languages: [List of programming languages]
-- Frameworks and libraries: [List of frameworks and libraries]
-- Databases: [List of databases]
-- Other tools and technologies: [List of other tools and technologies]
-
-## Github Statistics
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true)
-
-## Projects
-
-Here are some of my notable projects:
-
-[Project 1 Name](link to project): Brief description of the project
-
-[Project 2 Name](link to project): Brief description of the project
-
 [Project 3 Name](link to project): Brief description of the project
 
-![Project Screenshots](screenshots.png)
+![Project Screenshots](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fdashboard&psig=AOvVaw2dwMhvVxiQzwrbTLcFouKI&ust=1681973365231000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMjL8pmttf4CFQAAAAAdAAAAABAE)
 
 ## Contact
 
