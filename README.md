@@ -68,3 +68,10 @@ To maintain the highest standards of quality, carried out unit tests using Jest.
 [![SQL Server](https://img.shields.io/badge/-SQL%20Server-orange)](#) [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green)](#) [![HTML5](https://img.shields.io/badge/-HTML5-red)](#) [![CSS3](https://img.shields.io/badge/-CSS3-blue)](#) [![Java](https://img.shields.io/badge/-Java-purple)](#) [![Quartz](https://img.shields.io/badge/-Quartz-yellow)](#) [![Jenkins](https://img.shields.io/badge/-Jenkins-orange)](#) [![Docker](https://img.shields.io/badge/-Docker-blue)](#) [![GitLab](https://img.shields.io/badge/-GitLab-orange)](#) [![Git](https://img.shields.io/badge/-Git-red)](#) [![Oracle](https://img.shields.io/badge/-Oracle-ff69b4)](#)
 
 
+
+## Badges and Awards
+
+- Microsoft Certified: Azure Fundamentals
+- Hacktoberfest 2021 Participant
+- AWS Certified: Solutions Architect - Associate
+
