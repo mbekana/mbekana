@@ -73,7 +73,8 @@ To maintain the highest standards of quality, carried out unit tests using Jest.
 
 ## Badges and Awards
 
-[![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoft-azure)](https://www.youracclaim.com/badges/12345678-9abc-def0-1234-56789abcdef0)
+[![Hong Kong University Certified: Front-End JavaScript Frameworks: Angular](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoft-azure)](https://www.coursera.org/account/accomplishments/verify/D7DEESVZJJPG)
+
 [![Hacktoberfest 2021 Participant](https://img.shields.io/badge/Hacktoberfest%202021-Participant-brightgreen?style=for-the-badge&logo=digitalocean)](https://hacktoberfest.digitalocean.com/)
 [![AWS Certified: Solutions Architect - Associate](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-yellow?style=for-the-badge&logo=amazon-aws)](https://www.youracclaim.com/badges/12345678-9abc-def0-1234-56789abcdef0)
 
