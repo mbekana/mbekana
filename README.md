@@ -3,7 +3,7 @@
 I am Md Rashedul Alam Anik, currently working as a Software Engineer at the [Enat Bank S.C](https://www.enatbanksc.com/). I am a Front-end heavy Full-Stack developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/Milkias-Bekana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milkias-bekana)](https://www.linkedin.com/in/milkias-bekana-6905ba208/)
-[![Solo Learn Badge](https://img.shields.io/badge/rashedul-alam-12100E?style=flat-square&logo=sololearn&logoColor=white&link=https://www.sololearn.com/profile/27345642)](https://www.sololearn.com/profile/27345642)
+[![Solo Learn Badge](https://img.shields.io/badge/Milkias-Bekana-12100E?style=flat-square&logo=sololearn&logoColor=pink&link=https://www.sololearn.com/profile/27345642)](https://www.sololearn.com/profile/27345642)
 [![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:mdraanik12@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/rashedul.alam.anik.2/)
 
