@@ -37,12 +37,9 @@ I am Milkias Bekana, currently working as a Software Engineer at the [Enat Bank 
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ludehsar&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ludehsar&count_private=true&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludehsar&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ludehsar.ludehsar)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludehsar&hide=TeX&layout=compact&bg_color=2c3e50&title_color=fff&text_color=fff)
 
