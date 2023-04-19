@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Md Rashedul Alam Anik, currently working as a Software Engineer at the [Enat Bank S.C](https://www.enatbanksc.com/). I am a Front-end heavy Full-Stack developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Milkias Bekana, currently working as a Software Engineer at the [Enat Bank S.C](https://www.enatbanksc.com/). I am a Front-end heavy Full-Stack developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/Milkias-Bekana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milkias-bekana)](https://www.linkedin.com/in/milkias-bekana-6905ba208/)
 [![Solo Learn Badge](https://img.shields.io/badge/Milkias-Bekana-12100E?style=flat-square&logo=sololearn&logoColor=pink&link=https://www.sololearn.com/profile/27345642)](https://www.sololearn.com/profile/27345642)
