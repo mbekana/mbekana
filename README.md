@@ -43,7 +43,7 @@ I am Milkias Bekana, currently working as a Software Engineer at the [Enat Bank 
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludehsar&hide=TeX&layout=compact&bg_color=2c3e50&title_color=fff&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbekana&hide=TeX&layout=compact&bg_color=2c3e50&title_color=fff&text_color=fff)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ludehsar.ludehsar&color=yellow)
 
