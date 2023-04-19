@@ -68,7 +68,6 @@ To maintain the highest standards of quality, carried out unit tests using Jest.
 [![SQL Server](https://img.shields.io/badge/-SQL%20Server-orange)](#) [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green)](#) [![HTML5](https://img.shields.io/badge/-HTML5-red)](#) [![CSS3](https://img.shields.io/badge/-CSS3-blue)](#) [![Java](https://img.shields.io/badge/-Java-purple)](#) [![Quartz](https://img.shields.io/badge/-Quartz-yellow)](#) [![Jenkins](https://img.shields.io/badge/-Jenkins-orange)](#) [![Docker](https://img.shields.io/badge/-Docker-blue)](#) [![GitLab](https://img.shields.io/badge/-GitLab-orange)](#) [![Git](https://img.shields.io/badge/-Git-red)](#) [![Oracle](https://img.shields.io/badge/-Oracle-ff69b4)](#)
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 ## Badges and Awards
 
@@ -78,12 +77,10 @@ To maintain the highest standards of quality, carried out unit tests using Jest.
 
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-
 
 ## Blog Posts
 
-- [10 Tips for Writing Clean Code in Python](https://example.com/10-tips-for-writing-clean-code-in-python)
+- [How to Send and Receive A Soap Request with CDATA in Spring Boot](https://example.com/10-tips-for-writing-clean-code-in-python)
 - [Introduction to Machine Learning with Scikit-Learn](https://example.com/introduction-to-machine-learning-with-scikit-learn)
 - [Building a Serverless E-Commerce Website with AWS Lambda and Stripe](https://example.com/building-a-serverless-e-commerce-website-with-aws-lambda-and-stripe)
 
