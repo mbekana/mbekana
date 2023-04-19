@@ -44,8 +44,11 @@ I am Milkias Bekana, currently working as a Software Engineer at the [Enat Bank 
 
 
 
+### Projects
 
-[ATM Dispute Management](link to project): Cutting-edge ATM dispute management system designed to enhance customer satisfaction by addressing delays in handling ATM disputes. The system offers a comprehensive solution for managing ATM disputes through a seamless process, which significantly improves the customer experience.
+### Dispute Mangement
+
+Cutting-edge ATM dispute management system designed to enhance customer satisfaction by addressing delays in handling ATM disputes. The system offers a comprehensive solution for managing ATM disputes through a seamless process, which significantly improves the customer experience.
 
 The system was developed based on extensive research and feedback from clients. To ensure an excellent user experience, It was built and maintained using one of JavaScript cutting-edge front-end framework which is Angular and with a Spring Boot Framework.
 
