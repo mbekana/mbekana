@@ -63,7 +63,7 @@ To maintain the highest standards of quality, carried out unit tests using Jest.
 ![Project Screenshots](https://github.com/mbekana/dispute_management/blob/develop/src/assets/Screenshot%20from%202023-01-25%2017-25-57.png)
 
 
-## Stacks
+## Stacks Used
 [![SQL Server](https://img.shields.io/badge/-SQL%20Server-orange)](#) [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green)](#) [![HTML5](https://img.shields.io/badge/-HTML5-red)](#) [![CSS3](https://img.shields.io/badge/-CSS3-blue)](#) [![Java](https://img.shields.io/badge/-Java-purple)](#) [![Quartz](https://img.shields.io/badge/-Quartz-yellow)](#) [![Jenkins](https://img.shields.io/badge/-Jenkins-orange)](#) [![Docker](https://img.shields.io/badge/-Docker-blue)](#) [![GitLab](https://img.shields.io/badge/-GitLab-orange)](#) [![Git](https://img.shields.io/badge/-Git-red)](#) [![Oracle](https://img.shields.io/badge/-Oracle-ff69b4)](#)
 
 
