@@ -52,17 +52,15 @@ I am Milkias Bekana, currently working as a Software Engineer at the [Enat Bank 
 
 Cutting-edge ATM dispute management system designed to enhance customer satisfaction by addressing delays in handling ATM disputes. The system offers a comprehensive solution for managing ATM disputes through a seamless process, which significantly improves the customer experience.
 
-The system was developed based on extensive research and feedback from clients. To ensure an excellent user experience, It was built and maintained using one of JavaScript cutting-edge front-end framework which is Angular and with a Spring Boot Framework.
+The system was developed based on extensive research and feedback from clients. To ensure an excellent user experience, It was built and maintained using Angular a cutting-edge widely adopted JavaScript Framework with a Spring Boot Backend.
 
-Our system also features automated mail sender schedule jobs using Quartz. This feature ensures that customers are informed of any updates on their ATM disputes. We also overcame data redundancy and inaccuracy issues by creating an API integration module with the Core Banking System.
+The system also features automated mail sender schedule jobs using Quartz. This feature ensures that customers are informed of any updates on their ATM disputes.The system also overcames data redundancy and inaccuracy issues by creating an API integration module with the Core Banking System.
 
-To maintain the highest standards of quality, we carried out unit tests using Jest. The system also implements authentication and authorization using OAuth 2.0 to ensure that only authorized personnel have access to sensitive information.
+To maintain the highest standards of quality, carried out unit tests using Jest. The system also implements authentication and authorization using OAuth 2.0 to ensure that only authorized personnel have access to sensitive information.
 
 
 
 ![Project Screenshots](https://github.com/mbekana/dispute_management/blob/develop/src/assets/Screenshot%20from%202023-01-25%2017-25-57.png)
 
-## Contact
 
-Feel free to contact me through [email/social media/personal website].
 
