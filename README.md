@@ -47,7 +47,7 @@ I am Milkias Bekana, currently working as a Software Engineer at the [Enat Bank 
 
 [Project 3 Name](link to project): Brief description of the project
 
-![Project Screenshots](https://media.istockphoto.com/id/1296381479/nl/vector/set-van-eenvoudige-infographic-grafieken-en-grafieken-gegevensvisualisatie-statistieken-en.jpg?s=612x612&w=0&k=20&c=faOWmcGx5u1vRQjgrPYI2z1jBeTELVqvoOyBOKgWKHI=)
+![Project Screenshots](https://github.com/mbekana/dispute_management/blob/develop/src/assets/Dashboard-all.png)
 
 ## Contact
 
