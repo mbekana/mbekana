@@ -44,7 +44,9 @@ I am Milkias Bekana, currently working as a Software Engineer at the [Enat Bank 
 
 
 
-### Projects
+<p>&nbsp;</p>
+
+## Projects
 
 ### Dispute Mangement
 
