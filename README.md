@@ -67,7 +67,8 @@ To maintain the highest standards of quality, carried out unit tests using Jest.
 ## Stacks Used
 [![SQL Server](https://img.shields.io/badge/-SQL%20Server-orange)](#) [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green)](#) [![HTML5](https://img.shields.io/badge/-HTML5-red)](#) [![CSS3](https://img.shields.io/badge/-CSS3-blue)](#) [![Java](https://img.shields.io/badge/-Java-purple)](#) [![Quartz](https://img.shields.io/badge/-Quartz-yellow)](#) [![Jenkins](https://img.shields.io/badge/-Jenkins-orange)](#) [![Docker](https://img.shields.io/badge/-Docker-blue)](#) [![GitLab](https://img.shields.io/badge/-GitLab-orange)](#) [![Git](https://img.shields.io/badge/-Git-red)](#) [![Oracle](https://img.shields.io/badge/-Oracle-ff69b4)](#)
 
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Badges and Awards
 
@@ -76,6 +77,8 @@ To maintain the highest standards of quality, carried out unit tests using Jest.
 [![AWS Certified: Solutions Architect - Associate](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-yellow?style=for-the-badge&logo=amazon-aws)](https://www.youracclaim.com/badges/12345678-9abc-def0-1234-56789abcdef0)
 
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 ## Blog Posts
