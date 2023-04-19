@@ -76,18 +76,12 @@ To maintain the highest standards of quality, carried out unit tests using Jest.
 - AWS Certified: Solutions Architect - Associate
 
 
-## Design
 
-<p align="center">
-  <img src="https://example.com/my-profile-image.png" alt="My Profile Image" width="200">
-</p>
+## Blog Posts
 
-<p align="center">
-  <img src="https://example.com/my-cover-image.png" alt="My Cover Image" width="800">
-</p>
+- [10 Tips for Writing Clean Code in Python](https://example.com/10-tips-for-writing-clean-code-in-python)
+- [Introduction to Machine Learning with Scikit-Learn](https://example.com/introduction-to-machine-learning-with-scikit-learn)
+- [Building a Serverless E-Commerce Website with AWS Lambda and Stripe](https://example.com/building-a-serverless-e-commerce-website-with-aws-lambda-and-stripe)
 
-<p align="center">
-  <img src="https://example.com/my-custom-badge.svg" alt="My Custom Badge" width="150">
-</p>
 
 
