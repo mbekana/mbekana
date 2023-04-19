@@ -75,3 +75,19 @@ To maintain the highest standards of quality, carried out unit tests using Jest.
 - Hacktoberfest 2021 Participant
 - AWS Certified: Solutions Architect - Associate
 
+
+## Design
+
+<p align="center">
+  <img src="https://example.com/my-profile-image.png" alt="My Profile Image" width="200">
+</p>
+
+<p align="center">
+  <img src="https://example.com/my-cover-image.png" alt="My Cover Image" width="800">
+</p>
+
+<p align="center">
+  <img src="https://example.com/my-custom-badge.svg" alt="My Custom Badge" width="150">
+</p>
+
+
