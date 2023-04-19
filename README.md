@@ -8,8 +8,13 @@ I am Md Rashedul Alam Anik, currently working as a Software Engineer at the [Ena
 
 
 
+
+
 ## ⚡ Technologies
 
+
+![Spring Boot](https://img.shields.io/badge/spring-boot-green?style=flat-square&logo=spring-boot)
+![Angular](https://img.shields.io/badge/angular-red?style=flat-square&logo=angular)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
