@@ -63,4 +63,6 @@ To maintain the highest standards of quality, carried out unit tests using Jest.
 ![Project Screenshots](https://github.com/mbekana/dispute_management/blob/develop/src/assets/Screenshot%20from%202023-01-25%2017-25-57.png)
 
 
+## Stacks
+[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-SQL%20Server%20%7C%20Spring%20Boot%20%7C%20HTML5%20%7C%20CSS3%20%7C%20Java%20%7C%20Quartz%20%7C%20Jenkins%20%7C%20Docker%20%7C%20GitLab%20%7C%20Git%20%7C%20Oracle-blue)](#)
 
