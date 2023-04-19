@@ -47,7 +47,7 @@ I am Milkias Bekana, currently working as a Software Engineer at the [Enat Bank 
 
 [Project 3 Name](link to project): Brief description of the project
 
-![Project Screenshots](https://github.com/mbekana/dispute_management/blob/develop/src/assets/Dashboard-all.png)
+![Project Screenshots](https://github.com/mbekana/dispute_management/blob/develop/src/assets/Screenshot%20from%202023-01-25%2017-25-57.png)
 
 ## Contact
 
