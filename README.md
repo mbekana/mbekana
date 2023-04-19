@@ -39,7 +39,7 @@ I am Milkias Bekana, currently working as a Software Engineer at the [Enat Bank 
 
 
 ## Git Stats
-![Github Stats](http://10.1.12.73/dev-team?username=mbekana&count_private=true&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mbekana&count_private=true&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
 
