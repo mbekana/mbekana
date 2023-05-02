@@ -74,17 +74,5 @@ To maintain the highest standards of quality, carried out unit tests using Jest.
 
 [![Hong Kong University Certified: Front-End JavaScript Frameworks: Angular](https://img.shields.io/badge/Certified-Angular-blue?style=for-the-badge&logo=angular)](https://www.coursera.org/account/accomplishments/verify/D7DEESVZJJPG)
 
-[![Hacktoberfest 2021 Participant](https://img.shields.io/badge/Hacktoberfest%202021-Participant-brightgreen?style=for-the-badge&logo=digitalocean)](https://hacktoberfest.digitalocean.com/)
-[![AWS Certified: Solutions Architect - Associate](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-yellow?style=for-the-badge&logo=amazon-aws)](https://www.youracclaim.com/badges/12345678-9abc-def0-1234-56789abcdef0)
-
-
-<p>&nbsp;</p>
-
-## Blog Posts
-
-- [How to Send and Receive A Soap Request with CDATA in Spring Boot](https://example.com/10-tips-for-writing-clean-code-in-python)
-- [Introduction to Machine Learning with Scikit-Learn](https://example.com/introduction-to-machine-learning-with-scikit-learn)
-- [Building a Serverless E-Commerce Website with AWS Lambda and Stripe](https://example.com/building-a-serverless-e-commerce-website-with-aws-lambda-and-stripe)
-
 
 
