@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-I’m a passionate software engineer specializing in **Full-Stack Development** using **Java, SPA's and Spring Boot**. My goal is to write clean, maintainable, and efficient code that solves real business problems. While most of my projects are private due to client confidentiality, I strive to share knowledge and contribute openly wherever I can.
+I’m a passionate software engineer specializing in **Full-Stack Development** using **Java, Spring Boot, and SPA's**. My goal is to write clean, maintainable, and efficient code that solves real business problems. While most of my projects are private due to client confidentiality, I strive to share knowledge and contribute openly wherever I can.
 
 🌍 From **Ethiopia** to everywhere — writing code that travels farther than I do.
 
@@ -32,37 +32,38 @@ I’m a passionate software engineer specializing in **Full-Stack Development** 
 |-----------------|-------------------------------------------|
 | Languages       | Java, Python, JavaScript/TypeScript      |
 | Backend         | Spring Boot, Flask, Express.js            |
-| Frontend        | React, Angular, Flutter Web                |
+| Frontend        | React, Angular, Flutter                |
 | Databases       | PostgreSQL, MySQL, MongoDB                 |
 | Dev Tools       | Git, Docker, Maven, Postman, IntelliJ, VS Code |
-| CI/CD & Cloud   | GitHub Actions, Docker Hub, AWS basics    |
+| CI/CD & Cloud   | GitHub Actions, Docker Hub, Jenkins    |
 | Concepts        | Async programming, Event-driven architecture, RESTful 
 
 ---
 
 ## 📚 Continuous Learning & Certifications
 
-- Mastering **Data Structures & Algorithms** through daily practice  
-- Preparing for **Spring Boot Certification** exams  
-- Actively studying for **IELTS/TOEFL** to unlock international career opportunities  
-- Exploring cloud technologies: **AWS fundamentals, Kubernetes basics**
+- React + Redux
+- Certified in comprehensive PostgreSQL Bootcamp on Udemy.
+- Meta Front-End Developer Professional Certificate
+- Mastering **Data Structures & Algorithms** through daily practice
+- Front-End JavaScript Frameworks: Angular
+- The Data Scientist’s Toolbox
 
 ---
 
 ## 🎯 Career Goals
 
-- Architect and build highly scalable, maintainable microservices using async and event-driven patterns  
-- Launch a fully dynamic portfolio with CMS and blogging capabilities  
-- Gain professional English proficiency certification  
-- Leverage AI and automation to create new streams of passive income  
+- Architect and build highly scalable, maintainable microservices using async and event-driven patterns
+- Gain professional English proficiency certification
+- Leverage AI and automation to create new streams of passive income
+- Conduct research in Artificial Intelligence (AI), Data Science (DS), and Human-Computer Interaction (HCI)
 
 ---
 
 ## 🤝 How to Reach Me
 
-- 📧 Email: [your@email.com](mailto:your@email.com)  
-- 🔗 LinkedIn: [linkedin.com/in/yourhandle](https://linkedin.com/in/yourhandle)  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
+- 📧 Email: [milkias.bekana29@gmail.com](mailto:milkias.bekana29@gmail.com)  
+- 🔗 LinkedIn: [https://linkedin.com/in/milkias-bekana/](https://www.linkedin.com/in/milkias-bekana/)
 - 🌐 Portfolio: *Coming Soon*
 
 ---
@@ -70,4 +71,4 @@ I’m a passionate software engineer specializing in **Full-Stack Development** 
 ## 🎙️ My Philosophy
 
 > *“Code is not just what you write — it’s the story you tell through logic, clarity, and efficiency.”*  
->  
+> 
