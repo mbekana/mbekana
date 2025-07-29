@@ -54,7 +54,6 @@ I’m a passionate software engineer specializing in **Full-Stack Development** 
 ## 🎯 Career Goals
 
 - Architect and build highly scalable, maintainable microservices using async and event-driven patterns
-- Gain professional English proficiency certification
 - Leverage AI and automation to create new streams of passive income
 - Conduct research in Artificial Intelligence (AI), Data Science (DS), and Human-Computer Interaction (HCI)
 
